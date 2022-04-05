@@ -1,0 +1,29 @@
+/* Audio Player states */
+.player {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 4px;
+  background-color: yellow;
+  opacity: 0.35;
+}
+/* 
+.player.player-ready {
+  background-image: url("/images/play_circle_40px.png");
+} */
+
+.player.player-playing {
+  background-image: url("/images/pause_circle_40px.png");
+}
+
+.player.player-error {
+  background-image: url("/images/volume_off_40px.png");
+}
+
+.custom-player{
+  height: 30px;
+  width: 30px;
+  background-color: #ffff;
+}

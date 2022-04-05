@@ -1,0 +1,16 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "vocab.html"
+   },
+   "description": "A new vocabulary word and its definition in your browser tabs",
+   "icons": {
+      "128": "images/icon-128px.png",
+      "16": "images/icon-16px.png",
+      "48": "images/icon-48px.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhQ/L1PQDav1RKZyKv40eAyhXUos2SvIA85bjRlob6/h1mB4wBjxyWE0FrW1olRkPXuc8+fI2LhkRpVTe4Ia+09uYEPucx/j7/lDldXUNv7bco1U84WHZ4H5jYqfIOqvF7FtFYI3XOPo6lOSrfEQ90c6W4V6PoR0ocpHpe8hHZavB5VB5VIhonL5T8+buVx9oEYsS1VK5+tbxchz3C7s4/MBezS/+P6hGIUHDhbTKXC3/MvmREQSRgdEP+cJeSuaskhbgG6U8Kk+Mxps/Culq8A0qhb5u6TPKo2wt9Wf9j9n9yoU/h+0sgnsA6B469Rq+gcXd8QyMN+Xe+4QdkTejlwIDAQAB",
+   "manifest_version": 3,
+   "name": "Vocab",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}
