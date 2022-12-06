@@ -1,0 +1,881 @@
+[
+    {
+      "id": 743,
+      "slug": "illustrious",
+      "front": [{ "type": "word", "content": "illustrious" }],
+      "back": [
+        { "type": "word", "content": "illustrious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> widely known and esteemed; having or conferring glory"
+        },
+        {
+          "type": "example",
+          "content": "Einstein was possibly the most <strong>illustrious</strong> scientist in recent history."
+        }
+      ]
+    },
+    {
+      "id": 832,
+      "slug": "lugubrious",
+      "front": [{ "type": "word", "content": "lugubrious" }],
+      "back": [
+        { "type": "word", "content": "lugubrious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> excessively mournful"
+        },
+        {
+          "type": "example",
+          "content": "At the funeral, <strong>lugubrious</strong> songs filled the small church."
+        }
+      ]
+    },
+    {
+      "id": 919,
+      "slug": "perspicacious",
+      "front": [{ "type": "word", "content": "perspicacious" }],
+      "back": [
+        { "type": "word", "content": "perspicacious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> acutely insightful and wise"
+        },
+        {
+          "type": "example",
+          "content": "Many modern observers regard Eisenhower as <strong>perspicacious</strong>, particularly in his accurate prediction of the growth of the military."
+        }
+      ]
+    },
+    {
+      "id": 972,
+      "slug": "punctilious",
+      "front": [{ "type": "word", "content": "punctilious" }],
+      "back": [
+        { "type": "word", "content": "punctilious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> marked by precise accordance with details"
+        },
+        {
+          "type": "example",
+          "content": "The colonel was so <strong>punctilious</strong> about enforcing regulations that men feel compelled to polish even the soles of their shoes."
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "slug": "sagacious",
+      "front": [{ "type": "word", "content": "sagacious" }],
+      "back": [
+        { "type": "word", "content": "sagacious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> having good judgement and acute insight"
+        },
+        {
+          "type": "example",
+          "content": "Steve Jobs is surely one of the most <strong>sagacious</strong> CEOs, making Apple one of the most recognizable and valuable companies in the world."
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "slug": "imperious",
+      "front": [{ "type": "word", "content": "imperious" }],
+      "back": [
+        { "type": "word", "content": "imperious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> having or showing arrogant superiority to and disdain of those one views as unworthy"
+        },
+        {
+          "type": "example",
+          "content": "Children are <strong>imperious</strong> with each other before they learn that earning someone's respect is better than demanding."
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "slug": "invidious",
+      "front": [{ "type": "word", "content": "invidious" }],
+      "back": [
+        { "type": "word", "content": "invidious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> likely to cause resentment"
+        },
+        {
+          "type": "example",
+          "content": "At a time when many others in the office were about to be laid off, many considered Cheryl's fine clothes that day an <strong>invidious</strong> display."
+        },
+        {
+          "type": "note",
+          "content": "This word has other definitions but this is the most important one to study"
+        }
+      ]
+    },
+    {
+      "id": 1066,
+      "slug": "surreptitious",
+      "front": [{ "type": "word", "content": "surreptitious" }],
+      "back": [
+        { "type": "word", "content": "surreptitious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> stealthy, taking pains not to be caught or detected"
+        },
+        {
+          "type": "example",
+          "content": "Since his mom was a light sleeper, Timmy had to tiptoe <strong>surreptitiously</strong> through the entire house, careful to not make the floors creak, until he at last was able to enjoy his plunder: a box of chocolate chip cookies."
+        }
+      ]
+    },
+    {
+      "id": 1114,
+      "slug": "unpropitious",
+      "front": [{ "type": "word", "content": "unpropitious" }],
+      "back": [
+        { "type": "word", "content": "unpropitious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> (of a circumstance) with little chance of success"
+        },
+        {
+          "type": "example",
+          "content": "With only a bottle of water and a sandwich, the hikers faced an <strong>unpropitious</strong> task: ascending a huge mountain that took most two days to climb."
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "slug": "impervious",
+      "front": [{ "type": "word", "content": "impervious" }],
+      "back": [
+        { "type": "word", "content": "impervious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> not admitting of passage or capable of being affected"
+        },
+        {
+          "type": "example",
+          "content": "I am not <strong>impervious</strong> to your insults; they cause me great pain."
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "slug": "officious",
+      "front": [{ "type": "word", "content": "officious" }],
+      "back": [
+        { "type": "word", "content": "officious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> intrusive in a meddling or offensive manner"
+        },
+        {
+          "type": "example",
+          "content": "The professor had trouble concentrating on her new theorem, because her <strong>officious</strong> secretary would barge in frequently reminding her of some trivial detail involving departmental paperwork."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "contentious",
+      "front": [{ "type": "word", "content": "contentious" }],
+      "back": [
+        { "type": "word", "content": "contentious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> likely to argue"
+        },
+        {
+          "type": "example",
+          "content": "Since old grandpa Harry became very <strong>contentious</strong> during the summer when only reruns were on T.V., the grandkids learned to hide from him at every opportunity."
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "slug": "supercilious",
+      "front": [{ "type": "word", "content": "supercilious" }],
+      "back": [
+        { "type": "word", "content": "supercilious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> haughty and disdainful; looking down on others"
+        },
+        {
+          "type": "example",
+          "content": "Nelly felt the Quiz Bowl director acted <strong>superciliously</strong> towards the underclassmen; really, she fumed, must he act so preternaturally omniscient each time he intones some obscure fact\u2014as though \r\neverybody knows that Mt. Aconcagua is the highest peak in South America. "
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "slug": "lascivious",
+      "front": [{ "type": "word", "content": "lascivious" }],
+      "back": [
+        { "type": "word", "content": "lascivious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> lecherous; sexually perverted"
+        },
+        {
+          "type": "example",
+          "content": "Lolita is a challenging novel for many, not necessarily because of the elevated prose style but because of the depravity of the main character, Humbert Humbert, who, as an old, <strong>lascivious</strong> man, falls in love with a girl. "
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "slug": "penurious",
+      "front": [{ "type": "word", "content": "penurious" }],
+      "back": [
+        { "type": "word", "content": "penurious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> lacking money; poor"
+        },
+        {
+          "type": "example",
+          "content": "Truly <strong>penurious</strong>, Mary had nothing more than a jar full of pennies."
+        },
+        { "type": "text", "content": "<strong>adjective:</strong> miserly" },
+        {
+          "type": "example",
+          "content": "Warren Buffett, famous multi-billionaire,  still drives a cheap sedan, not because he is <strong>penurious</strong>, but because luxury cars are gaudy and impractical."
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "slug": "factious",
+      "front": [{ "type": "word", "content": "factious" }],
+      "back": [
+        { "type": "word", "content": "factious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> produced by, or characterized by internal dissension"
+        },
+        {
+          "type": "example",
+          "content": "The controversial bill proved <strong>factious</strong>, as dissension even within parties resulted"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "slug": "fractious",
+      "front": [{ "type": "word", "content": "fractious" }],
+      "back": [
+        { "type": "word", "content": "fractious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> irritable and is likely to cause disruption"
+        },
+        {
+          "type": "example",
+          "content": "We rarely invite my <strong>fractious</strong> Uncle over for dinner; he always complains about the food, and usually launches into a tirade on some touchy subject."
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "slug": "bilious",
+      "front": [{ "type": "word", "content": "bilious" }],
+      "back": [
+        { "type": "word", "content": "bilious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> irritable; always angry"
+        },
+        {
+          "type": "example",
+          "content": "Rex was <strong>bilious</strong> all morning, and his face would only take on a look of contentedness when he\u2019d had his morning cup of coffee."
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "slug": "tendentious",
+      "front": [{ "type": "word", "content": "tendentious" }],
+      "back": [
+        { "type": "word", "content": "tendentious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> likely to lean towards a controversial view"
+        },
+        {
+          "type": "example",
+          "content": "Because political mudslinging has become a staple of the 24-hour media cycle, most of us, despite protestations to the contrary, are <strong>tendentious</strong> on many of today\u2019s pressing issues."
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "slug": "impecunious",
+      "front": [{ "type": "word", "content": "impecunious" }],
+      "back": [
+        { "type": "word", "content": "impecunious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> lacking money; poor"
+        },
+        {
+          "type": "example",
+          "content": "In extremely trying times, even the moderately wealthy, after a few turns of ill-fortune, can become <strong>impecunious</strong>. "
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "slug": "sententious",
+      "front": [{ "type": "word", "content": "sententious" }],
+      "back": [
+        { "type": "word", "content": "sententious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> to be moralizing, usually in a pompous sense"
+        },
+        {
+          "type": "example",
+          "content": "The old man, casting his nose up in the air at the group of adolescents, intoned <strong>sententiously</strong>, \u201cYouth is wasted on the young.\u201d"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "slug": "factitious",
+      "front": [{ "type": "word", "content": "factitious" }],
+      "back": [
+        { "type": "word", "content": "factitious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> artificial; not natural"
+        },
+        {
+          "type": "example",
+          "content": "The defendant\u2019s story was largely <strong>factitious</strong> and did not accord with eyewitness testimonies"
+        }
+      ]
+    },
+    {
+      "id": 673,
+      "slug": "facetious",
+      "front": [{ "type": "word", "content": "facetious" }],
+      "back": [
+        { "type": "word", "content": "facetious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> cleverly amusing in tone"
+        },
+        {
+          "type": "example",
+          "content": "<strong>Facetious</strong> behavior will not be tolerated during sex education class; it's time for all of you to treat these matters like mature adults."
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "slug": "industrious",
+      "front": [{ "type": "word", "content": "industrious" }],
+      "back": [
+        { "type": "word", "content": "industrious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> characterized by hard work and perseverance"
+        },
+        {
+          "type": "example",
+          "content": "Pete was an <strong>industrious</strong> student, completing every assignment thoroughly and on time."
+        }
+      ]
+    },
+    {
+      "id": 941,
+      "slug": "precarious",
+      "front": [{ "type": "word", "content": "precarious" }],
+      "back": [
+        { "type": "word", "content": "precarious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> fraught with danger"
+        },
+        {
+          "type": "example",
+          "content": "People smoke to relax and forget their cares, but ironically, in terms of health risks, smoking is far more <strong>precarious</strong> than either mountain-climbing or skydiving."
+        }
+      ]
+    },
+    {
+      "id": 817,
+      "slug": "laborious",
+      "front": [{ "type": "word", "content": "laborious" }],
+      "back": [
+        { "type": "word", "content": "laborious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> characterized by effort to the point of exhaustion; especially physical effort"
+        },
+        {
+          "type": "example",
+          "content": "The most <strong>laborious</strong> job I've had was working 20 hours a day as a fisherman in King Salmon, Alaska."
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "slug": "voracious",
+      "front": [{ "type": "word", "content": "voracious" }],
+      "back": [
+        { "type": "word", "content": "voracious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> very hungry; approaching an activity with gusto"
+        },
+        {
+          "type": "example",
+          "content": "Steven was a <strong>voracious</strong> reader, sometimes finishing two novels in the same day."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "slug": "pugnacious",
+      "front": [{ "type": "word", "content": "pugnacious" }],
+      "back": [
+        { "type": "word", "content": "pugnacious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> eager to fight or argue; verbally combative"
+        },
+        {
+          "type": "example",
+          "content": "The comedian told one flat joke after another, and when the audience started booing, he <strong>pugnaciously</strong> spat back at them, \u201cHey, you think this is easy \u2013 why don\u2019t you buffoons give it a shot?\u201d"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "slug": "sanctimonious",
+      "front": [{ "type": "word", "content": "sanctimonious" }],
+      "back": [
+        { "type": "word", "content": "sanctimonious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> making a show of being pious; holier-than-thou"
+        },
+        {
+          "type": "example",
+          "content": "Even during the quiet sanctity of evening prayer, she held her chin high, a <strong>sanctimonious</strong> sneer forming on her face as she eyed those who were attending church for the first time."
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "slug": "vicarious",
+      "front": [{ "type": "word", "content": "vicarious" }],
+      "back": [
+        { "type": "word", "content": "vicarious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> felt or undergone as if one were taking part in the experience or feelings of another"
+        },
+        {
+          "type": "example",
+          "content": "The advent of twitter is a celebrity stalker's dream, as he or she can\u2014through hundreds of intimate \"tweets\"\u2014<strong>vicariously</strong> live the life of a famous person."
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "slug": "audacious",
+      "front": [{ "type": "word", "content": "audacious" }],
+      "back": [
+        { "type": "word", "content": "audacious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> willing to be bold in social situations or to take risks"
+        },
+        {
+          "type": "example",
+          "content": "As all of the other campers cowered in their tents, Bill, armed only with a flashlight, <strong>audaciously</strong> tracked down the bear that had raided their food."
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "slug": "avaricious",
+      "front": [{ "type": "word", "content": "avaricious" }],
+      "back": [
+        { "type": "word", "content": "avaricious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> excessively greedy"
+        },
+        {
+          "type": "example",
+          "content": "Since <strong>avaricious</strong> desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the Catholic church."
+        }
+      ]
+    },
+    {
+      "id": 675,
+      "slug": "fallacious",
+      "front": [{ "type": "word", "content": "fallacious" }],
+      "back": [
+        { "type": "word", "content": "fallacious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> of a belief that is based on faulty reasoning"
+        },
+        {
+          "type": "example",
+          "content": "The widespread belief that Eskimos have forty different words for snow is <strong>fallacious</strong>, based on one false report."
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "slug": "insidious",
+      "front": [{ "type": "word", "content": "insidious" }],
+      "back": [
+        { "type": "word", "content": "insidious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> working in a subtle but destructive way"
+        },
+        {
+          "type": "example",
+          "content": "Plaque is <strong>insidious</strong>: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems."
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "slug": "precocious",
+      "front": [{ "type": "word", "content": "precocious" }],
+      "back": [
+        { "type": "word", "content": "precocious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)"
+        },
+        {
+          "type": "example",
+          "content": "Though only seven years old, she was a <strong>precocious</strong> chess prodigy, able to beat players twice her age."
+        }
+      ]
+    },
+    {
+      "id": 1046,
+      "slug": "spurious",
+      "front": [{ "type": "word", "content": "spurious" }],
+      "back": [
+        { "type": "word", "content": "spurious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> plausible but false"
+        },
+        {
+          "type": "example",
+          "content": "When listening to a politician speak, it is hard to distinguish the <strong>spurious</strong> claims from the authentic ones."
+        }
+      ]
+    },
+    {
+      "id": 1080,
+      "slug": "tenacious",
+      "front": [{ "type": "word", "content": "tenacious" }],
+      "back": [
+        { "type": "word", "content": "tenacious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> stubbornly unyielding"
+        },
+        {
+          "type": "example",
+          "content": "Even the most <strong>tenacious</strong> advocates for gun ownership must admit some of the dangers that firearms present."
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "slug": "copious",
+      "front": [{ "type": "word", "content": "copious" }],
+      "back": [
+        { "type": "word", "content": "copious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> in abundant supply"
+        },
+        {
+          "type": "example",
+          "content": "In midsummer, there are <strong>copious</strong> popsicle stands at the beach; in the winter, there are none."
+        }
+      ]
+    },
+    {
+      "id": 893,
+      "slug": "ostentatious",
+      "front": [{ "type": "word", "content": "ostentatious" }],
+      "back": [
+        { "type": "word", "content": "ostentatious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> intended to attract notice and impress others; tawdry or vulgar"
+        },
+        {
+          "type": "example",
+          "content": "Matt wanted to buy stone lions for front of the house, but Cynthia convinced him that such a display would be too <strong>ostentatious</strong> for a modest house in an unassuming neighborhood."
+        }
+      ]
+    },
+    {
+      "id": 882,
+      "slug": "obsequious",
+      "front": [{ "type": "word", "content": "obsequious" }],
+      "back": [
+        { "type": "word", "content": "obsequious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> attentive in an ingratiating or servile manner; attempting to win favor from influential people by flattery"
+        },
+        {
+          "type": "example",
+          "content": "The <strong>obsequious</strong> waiter did not give the couple a moment's peace all through the meal, constantly returning to their table to refill their water glasses and to tell them what a handsome pair they made."
+        }
+      ]
+    },
+    {
+      "id": 916,
+      "slug": "pernicious",
+      "front": [{ "type": "word", "content": "pernicious" }],
+      "back": [
+        { "type": "word", "content": "pernicious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> exceedingly harmful; working or spreading in a hidden and injurious way"
+        },
+        {
+          "type": "example",
+          "content": "The most successful viruses are <strong>pernicious</strong>: an infected person may feel perfectly healthy for several months while incubating and spreading the virus."
+        }
+      ]
+    },
+    {
+      "id": 956,
+      "slug": "prodigious",
+      "front": [{ "type": "word", "content": "prodigious" }],
+      "back": [
+        { "type": "word", "content": "prodigious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> so great in size or force or extent as to elicit awe"
+        },
+        {
+          "type": "example",
+          "content": "After the relatively small homerun totals in the \"dead ball\" era, Babe Ruth's homerun totals were truly <strong>prodigious</strong>: every year, he set a new all-time record."
+        }
+      ]
+    },
+    {
+      "id": 963,
+      "slug": "propitious",
+      "front": [{ "type": "word", "content": "propitious" }],
+      "back": [
+        { "type": "word", "content": "propitious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> presenting favorable circumstances; likely to result in or show signs of success"
+        },
+        {
+          "type": "example",
+          "content": "The child's heartbeat is still weak, but I am seeing many <strong>propitious</strong> signs and I think that she may be healing."
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "slug": "capricious",
+      "front": [{ "type": "word", "content": "capricious" }],
+      "back": [
+        { "type": "word", "content": "capricious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> determined by chance or impulse or whim rather than by necessity or reason"
+        },
+        {
+          "type": "example",
+          "content": "Nearly every month our <strong>capricious</strong> CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed."
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "slug": "deleterious",
+      "front": [{ "type": "word", "content": "deleterious" }],
+      "back": [
+        { "type": "word", "content": "deleterious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> harmful to living things"
+        },
+        {
+          "type": "example",
+          "content": "The BP oil spill in the Gulf of Mexico was <strong>deleterious</strong> to the fishing industry in the southern states."
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "slug": "efficacious",
+      "front": [{ "type": "word", "content": "efficacious" }],
+      "back": [
+        { "type": "word", "content": "efficacious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> producing the intended result"
+        },
+        {
+          "type": "example",
+          "content": "Since Maggie's cough syrup, which had expired five years back, was no longer <strong>efficacious</strong>, she coughed through the night."
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "slug": "fastidious",
+      "front": [{ "type": "word", "content": "fastidious" }],
+      "back": [
+        { "type": "word", "content": "fastidious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> overly concerned with details; fussy"
+        },
+        {
+          "type": "example",
+          "content": "Whitney is <strong>fastidious</strong> about her shoes, arranging them on a shelf in a specific order, each pair evenly spaced."
+        }
+      ]
+    },
+    {
+      "id": 741,
+      "slug": "ignominious",
+      "front": [{ "type": "word", "content": "ignominious" }],
+      "back": [
+        { "type": "word", "content": "ignominious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> (used of conduct or character) deserving or bringing disgrace or shame"
+        },
+        {
+          "type": "example",
+          "content": "Since the politician preached ethics and morality, his texting of revealing photographs was <strong>ignominious</strong>, bringing shame on both himself and his party."
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "slug": "specious",
+      "front": [{ "type": "word", "content": "specious" }],
+      "back": [
+        { "type": "word", "content": "specious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> based on pretense; deceptively pleasing"
+        },
+        {
+          "type": "example",
+          "content": "Almost every image on TV is <strong>specious</strong> and not to be trusted."
+        },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> plausible but false"
+        },
+        {
+          "type": "example",
+          "content": "He made a career out of <strong>specious</strong> arguments and fictional lab results, but lost his job and reputation when his lies were exposed by an article in The New York Times."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "egregious",
+      "front": [{ "type": "word", "content": "egregious" }],
+      "back": [
+        { "type": "word", "content": "egregious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> standing out in a negative way; shockingly bad"
+        },
+        {
+          "type": "example",
+          "content": "The dictator\u2019s abuse of human rights was so <strong>egregious</strong> that many world leaders demanded that he be tried in an international court for genocide. "
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "auspicious",
+      "front": [{ "type": "word", "content": "auspicious" }],
+      "back": [
+        { "type": "word", "content": "auspicious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> favorable, the opposite of sinister"
+        },
+        {
+          "type": "example",
+          "content": "Despite an <strong>auspicious</strong> beginning, Mike\u2019s road trip became a series of mishaps, and he was soon stranded and penniless, leaning against his wrecked automobile."
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "slug": "parsimonious",
+      "front": [{ "type": "word", "content": "parsimonious" }],
+      "back": [
+        { "type": "word", "content": "parsimonious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> extremely frugal; miserly"
+        },
+        {
+          "type": "example",
+          "content": "Katie is so <strong>parsimonious</strong> that she only buys a pair of socks if all of her other socks have holes in them."
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "slug": "veracious",
+      "front": [{ "type": "word", "content": "veracious" }],
+      "back": [
+        { "type": "word", "content": "veracious", "styles": ["word-small"] },
+        { "type": "text", "content": "<strong>adjective:</strong> truthful" },
+        {
+          "type": "example",
+          "content": "While we elect our leaders in the hope that every word they speak  will be <strong>veracious</strong>, history has shown that such a hope is naive. "
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "slug": "gregarious",
+      "front": [{ "type": "word", "content": "gregarious" }],
+      "back": [
+        { "type": "word", "content": "gregarious", "styles": ["word-small"] },
+        {
+          "type": "text",
+          "content": "<strong>adjective:</strong> to be likely to socialize with others"
+        },
+        {
+          "type": "example",
+          "content": "Often we think that great leaders are those who are <strong>gregarious</strong>, always in the middle of a large group of people; yet, as Mahatma Gandhi and many others have shown us, leaders can also be introverted."
+        }
+      ]
+    }
+  ]
+  

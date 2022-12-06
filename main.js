@@ -14,7 +14,7 @@ $(document).ready(function() {
 
   // Prepare <audio> tag for playback
   var setupAudioPlayer = function(audioUrl) {
-    var $player =  $(".audio-playback");
+    var $player = $(".audio-playback");
     var player = $player[0]
     player.src = audioUrl;
     player.load();
@@ -84,6 +84,6 @@ $(document).ready(function() {
   });
 
   // Load word content from JSON file
-  $.getJSON('words.json', successCallback);
+  $.getJSON('ious.json', successCallback);
 
 });
